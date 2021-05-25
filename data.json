@@ -20,4 +20,10 @@
     "url":  "https://www.youtube.com/embed/u-OmVr_fT4s",
     "body": "This video gives us an understanding on how to implement functions"
   }
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Python Variables",
+    "body": "This video gives an understanding on what are variables and how they are defined"
+  },
 ]
