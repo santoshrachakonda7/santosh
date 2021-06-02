@@ -4,6 +4,7 @@
     "id": 1,
     "title": "Python Variables",
     "url":  "https://www.youtube.com/embed/cQT33yu9pY8",
+    "url":  "https://www.youtube.com/embed/cQT33yu9pY8",
     "body": "This video gives an understanding on what are variables and how they are defined"
   },
   {
@@ -11,6 +12,7 @@
     "id": 2,
     "title": "Conditional Branching",
     "url":  "https://www.youtube.com/embed/Zp5MuPOtsSY",
+    "image": "https://data36.com/wp-content/uploads/2018/01/Python-if-statement-condition-sequence-768x300.png",
     "image": "https://data36.com/wp-content/uploads/2018/01/Python-if-statement-condition-sequence-768x300.png",
     "body": "This video gives an understanding on how to use conditional statements",
     "link": "https://www.w3schools.com/python/python_functions.asp"
@@ -20,6 +22,7 @@
     "id": 3,
     "title": "Functions",
     "url":  "https://www.youtube.com/embed/u-OmVr_fT4s",
+    "body": "This video gives us an understanding on how to implement functions",
     "body": "This video gives us an understanding on how to implement functions",
     "link": "https://www.w3schools.com/python/python_functions.asp"
   },
