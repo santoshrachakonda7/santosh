@@ -111,28 +111,28 @@
         "recommendations" :
             ["Use variables in code and trace different values they hold"],
         "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
-        "id": null,
+        "id": 5,
         "name": "Trace the call stack of nested function calls",
         "module_id": "CSPP-1M13"
     },{
         "recommendations" :
             ["Use variables in code and trace different values they hold"],
         "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
-        "id": null,
+        "id": 5,
         "name": "Use libraries to import functions in categories like math, randomness, and graphics",
         "module_id": "CSPP-1M14"
     },{
         "recommendations" :
             ["No pre-requistes for this learning objective"],
         "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
-        "id": null,
+        "id": 5,
         "name": "Recognize the process of tokenizing, parsing, and translating code into instructions a computer can execute",
         "module_id": "CSPP-1M15"
     },{
         "recommendations" :
             ["Interpret and react to error messages caused by programs"],
         "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
-        "id": null,
+        "id": 5,
         "name": "Recognize the different types of errors raised at different points in the python translation process",
         "module_id": "CSPP-1M16"
     },{
