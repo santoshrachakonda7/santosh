@@ -1,0 +1,225 @@
+[{
+       
+        "recommendations" :
+            ["No pre-requistes for this learning objective"],
+
+        "desc": "<b>Module Overview:</b><br>This module will describe the basics of computation. You will identify the characteristics of a programming language and start defining the syntax and semantics of the python language.<br><br>This module also illustrates the fundamental concepts required to write the code in python language. You will be knowing about the comments, operators etc and solve problems to get hands-on experience on these concepts.<p><b>Learning Objectives:</b><ol><li>Introduction to the python language</li><li>Understand the simple hello world program</li><li>Make use of comments</li><li>Usage of console input and output</li><li>Understanding different operators</li></ol>",
+        "id": 1,
+        "name": "Algorithms & Abstraction",
+        "module_id": "CSPP-1M1"
+    },
+    {
+        
+        "recommendations" :
+            ["No pre-requistes for this learning objective"],
+       
+        "desc": "<b>Module Overview:</b><br>In this module, you will combine the concepts you have learned so far with variables, branching and functions. It will introduce you to a key element called variables which is the basic building block of every program. You will know how to deal with decision making and the purpose of functions and how to implement  them in python language.<p><b>Learning Objectives:</b><ol><li>Usage of variables</li><li>Apply conditional branching</li><li>Define functions and how to use them</li><li>How to use function arguments and return values</li><li>Explains the scope of variables</li></ol>",
+        "id": 1,
+        "name": "Define abstraction",
+        "module_id": "CSPP-1M2"
+    },
+    {
+       
+        "recommendations" :
+            ["No pre-requistes for this learning objective"],
+            
+        "desc": "<b>Module Overview:</b><br>In this module, you will combine the concepts you have learned so far with iteration. You will know how to deal with lines of code that must be executed multiple times. You will be introduced to the concept of loops and its characteristics. You will construct different loops for solving the problems.<p><b>Learning Objectives:</b><ol><li>Define loop and its characteristics</li><li>Constructing a For loop when you know the number of iterations</li><li>Constructing a While loop when you just know the terminating condition, but not the number of iterations.</li></ol>",
+        "id": 1,
+        "name": "Construct algorithms, in english, to solve basic tasks",
+        "module_id": "CSPP-1M3"
+    },
+    {
+        
+        "recommendations" :
+            ["No pre-requistes for this learning objective"],
+        "desc": "<b>Module Overview:</b><br>This module is designed to reinforce your understanding about the basic concepts you have learned so far. There are a list of problem statements which needs you to pay more attention while solving.<p><b>Learning Objectives:</b><ol><li>Solving the given problem statements</li></ol>",
+        "id": 2,
+        "name": "Recognize and use basic data types",
+        "module_id": "CSPP-1M4"
+    },
+    {
+        
+        "recommendations" :
+            ["No pre-requistes for this learning objective"],
+            
+        "desc": "<b>Module Overview:</b><br>This module is designed to reinforce your understanding about the basic concepts you have learned so far. There are a list of problem statements which needs you to pay more attention while solving.<p><b>Learning Objectives:</b><ol><li>Solving the given problem statements</li></ol>",
+        "id": 2,
+        "name": "Interpret and react to error messages caused by programs",
+        "module_id": "CSPP-1M5"
+    },
+    {
+        
+        "recommendations" :
+            ["Recognize and use basic data types"],
+           
+        "desc": "<b>Module Overview:</b><br>In this module you will know how to store a text data and how to manipulate it based on the requirements of the problem statement. You will be introduced to the built in functions available for strings.<p><b>Learning Objectives:</b><ol><li>What is a string</li><li>Make use of builtin functions of strings</li></ol>",
+        "id": 2,
+        "name": "Use variables in code and trace different values they hold",
+        "module_id": "CSPP-1M6"
+    },
+    {
+        "recommendations" :
+            ["No pre-requistes for this learning objective"],
+        "desc": "<b>Module Overview:</b><br>This module is designed to reinforce your understanding about the basic concepts you have learned so far. There are a list of problem statements which needs you to pay more attention while solving.<p><b>Learning Objectives:</b><ol><li>Solving the given problem statements</li></ol>",
+        "id": null,
+        "name": "Explain how different number systems hold the same information",
+        "module_id": "CSPP-1M7"
+    },
+    {
+        "recommendations" :
+            ["No pre-requistes for this learning objective"],
+          
+        "desc": "<b>Module Overview:</b><br>This module will demonstrate what are exceptions and when to apply them while solving the problems. By the end of this module, you will be able to implement exceptional handling in the code. Just writing the code to solve a problem is not enough, you have to verify the code that it works perfectly in all the scenarios and contains no bugs.Here we will describe how to build the testsuite for testing the code.<p><b>Learning Objectives:</b><ol><li>Perform Testing And Debugging</li><li>Introduction to Errors and Exceptions</li><li>What is an exception and their types of exceptions in python?</li><li>Difference between errors and exceptions</li><li>How to handle exceptions</li><li>How to raise user defined exceptions</li></ol>",
+        "id": null,
+        "name": "Translate binary numbers to decimal and vice versas",
+        "module_id": "CSPP-1M8"
+    },
+    {
+        "recommendations": 
+            ["No pre-requistes for this learning objective"],
+            
+        "desc": "<b>Module Overview:</b><br>This module explains  how to store a collection of data in python language. Describes the syntax and functions available for creating and using python objects.<p><b>Learning Objectives:</b><ol><li>Illustrate the necessity of objects</li><li>How to create lists</li><li>Manipulate lists with predefined functions</li></ol>",
+        "id": null,
+        "name": "Interpret binary numbers as abstract types, including colors and text",
+        "module_id": "CSPP-1M9"
+    },
+    {
+        "recommendations" :
+            ["Use variables in code and trace different values they hold"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Use variables in code and trace different values they hold",
+        "module_id": "CSPP-1M10"
+    },
+    {
+        "recommendations" :
+           ["Construct algorithms, in english, to solve basic tasks","Use variables in code and trace different values they hold"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Use function definitions to implement algorithms",
+        "module_id": "CSPP-1M11"
+    },
+    {
+        "recommendations" :
+            ["Use variables in code and trace different values they hold"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Recognize the difference between local and global scope",
+        "module_id": "CSPP-1M12"
+    },
+    {
+        "recommendations" :
+            ["Use variables in code and trace different values they hold"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Trace the call stack of nested function calls",
+        "module_id": "CSPP-1M13"
+    },{
+        "recommendations" :
+            ["Use variables in code and trace different values they hold"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Use libraries to import functions in categories like math, randomness, and graphics",
+        "module_id": "CSPP-1M14"
+    },{
+        "recommendations" :
+            ["No pre-requistes for this learning objective"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Recognize the process of tokenizing, parsing, and translating code into instructions a computer can execute",
+        "module_id": "CSPP-1M15"
+    },{
+        "recommendations" :
+            ["Interpret and react to error messages caused by programs"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Recognize the different types of errors raised at different points in the python translation process",
+        "module_id": "CSPP-1M16"
+    },{
+        "recommendations" :
+            ["No pre-requistes for this learning objective"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Use logical operators on Booleans to compute whether an expression is True or False",
+        "module_id": "CSPP-1M17"
+    },
+    {
+        "recommendations" :
+            ["Construct algorithms, in english, to solve basic tasks","Use variables in code and trace different values they hold","Use logical operators on Booleans to compute whether an expression is True or False"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Use conditionals in algorithms that make choices based on data",
+        "module_id": "CSPP-1M18"
+    },
+    {
+        "recommendations" :
+            ["Use logical operators on Booleans to compute whether an expression is True or False"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Translate boolean expressions to truth tables and circuits",
+        "module_id": "CSPP-1M19"
+    },
+    {
+        "recommendations" :
+            ["Use logical operators on Booleans to compute whether an expression is True or False"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Translate circuits to truth tables and Boolean expressions",
+        "module_id": "CSPP-1M20"
+    },
+    {
+        "recommendations" :
+            ["No pre-requistes for this learning objective"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Recognize how addition is done at the circuit level",
+        "module_id": "CSPP-1M21"
+    },
+    {
+        "recommendations" :
+            ["Use variables in code and trace different values they hold"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Use while loops in algorithms to repeat actions while a certain condition is met",
+        "module_id": "CSPP-1M27"
+    },
+    {
+        "recommendations" :
+            ["Use variables in code and trace different values they hold", "Use logical operators on Booleans to compute whether an expression is True or False"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Identify start values, continuing conditions, and update actions for loop control variables",
+        "module_id": "CSPP-1M28"
+    },
+    {
+        "recommendations" :
+            ["Use variables in code and trace different values they hold"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Use for loops in algorithms to repeat actions a specified number of times",
+        "module_id": "CSPP-1M29"
+    },
+    {
+        "recommendations" :
+            ["Use variables in code and trace different values they hold", "Use variables in code and trace different values they hold"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Recognize which numbers will be produced by a range expression",
+        "module_id": "CSPP-1M30"
+    },{
+        "recommendations" :
+            ["Use conditionals in algorithms that make choices based on data", "Use while loops in algorithms to repeat actions while a certain condition is met", "Identify start values, continuing conditions, and update actions for loop control variables","Use for loops in algorithms to repeat actions a specified number of times", "Recognize which numbers will be produced by a range expression"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Translate algorithms from control flow charts to python code",
+        "module_id": "CSPP-1M31"
+    },{
+        "recommendations" :
+            ["Translate algorithms from control flow charts to python code"],
+        "desc": "<b>Module Overview:</b><br>This module explains  another python object called tuples. You will also understand the difference between lists and tuples<p><b>Learning Objectives:</b><ol><li>How to create tuples</li><li>Manipulate tuples with predefined functions</li><li>Worked examples on Lists</li></ol>",
+        "id": null,
+        "name": "Use nesting of statements to create complex control flow",
+        "module_id": "CSPP-1M32"
+    }
+    
+]
